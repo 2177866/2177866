@@ -44,7 +44,7 @@ Backend developer with experience in multiple programming languages. Main stack 
 </td>
 <td>
 <p align="right">
-  <img src="T-Shape.png" alt="T-Shape" width="400px" />
+  <img src=".github/assets/T-Shape.png" alt="T-Shape" width="400px" />
 </p>
 </td>
 </tr>
