@@ -4,7 +4,7 @@ Backend-разработчик с опытом работы на разных я
 
 ## Стек технологий
 
-<table>
+<table border="0">
 <tr valign="top">
 <td>
 
