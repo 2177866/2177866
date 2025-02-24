@@ -1,14 +1,14 @@
-# Backend-разработчик
+# 👋 Backend Developer
 
-Backend-разработчик с опытом работы на разных языках программирования. Основной стек — Laravel, PostgreSQL, Redis. Специализируюсь на создании API (GraphQL, REST) и высоконагруженных систем для мобильных приложений и сайтов. Разрабатываю проекты на Laravel и публикую пакеты на Packagist.
+Backend developer with experience in multiple programming languages. Main stack — Laravel, PostgreSQL, Redis. Specializing in API development (GraphQL, REST) and high-load systems for mobile applications and websites. Developing projects in Laravel and publishing packages on Packagist.
 
-## Стек технологий
+## 🚀 Technology Stack
 
-<table border="0">
+<table>
 <tr valign="top">
 <td>
 
-### **Языки программирования**
+### **Programming Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -19,12 +19,12 @@ Backend-разработчик с опытом работы на разных я
 ![Pascal](https://img.shields.io/badge/Pascal-003366?style=for-the-badge&logo=delphi&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
-### **Фреймворки**
+### **Frameworks**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bitrix Framework](https://img.shields.io/badge/Bitrix-0095D5?style=for-the-badge&logo=bitrix&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### **Базы данных**
+### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,7 +32,7 @@ Backend-разработчик с опытом работы на разных я
 ![Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![DBF](https://img.shields.io/badge/DBF-FF8000?style=for-the-badge&logo=database&logoColor=white)
 
-### **Технологии и инструменты**
+### **Technologies and Tools**
 ![Ajax](https://img.shields.io/badge/Ajax-00599C?style=for-the-badge&logo=javascript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
@@ -48,4 +48,3 @@ Backend-разработчик с опытом работы на разных я
 </td>
 </tr>
 </table>
-
