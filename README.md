@@ -4,6 +4,10 @@ Backend-разработчик с опытом работы на разных я
 
 ## Стек технологий
 
+<table>
+<tr valign="top">
+<td>
+
 ### **Языки программирования**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -36,8 +40,12 @@ Backend-разработчик с опытом работы на разных я
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+</td>
+<td>
+<p align="right">
+  <img src="T-Shape.png" alt="T-Shape" width="400px" />
+</p>
+</td>
+</tr>
+</table>
 
-## Мои страницы
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lyakin-78158573/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alyakin_pro/)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/alyakin/)
