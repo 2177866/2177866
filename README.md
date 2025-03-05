@@ -1,8 +1,8 @@
 ## About me
 
-Backend developer. Specializing in API development (GraphQL, REST API) and high-load systems for mobile applications and websites. Developing packages on Packagist.
+Backend developer specializing in API development (GraphQL, REST API) and high-load systems for mobile applications and websites. Developing packages on Packagist. Sharing educational content and helping junior developers improve their code through reviews and analysis. Experienced in project management in web studios.
 
-### My Technology Stack
+### My Technology Stack (T-Shape)
 
 <table>
 <tr valign="top">
